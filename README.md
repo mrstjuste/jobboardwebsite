@@ -22,13 +22,8 @@ This project is a web-based job board platform that connects job seekers with po
 ## Contributing
 Contributions to the project are welcome. Please fork the repository and submit a pull request with your changes.
 
-## License
-(Your chosen license, e.g., MIT, GPL, etc.)
 
 ## Contact
-(Your contact information or instructions on how to reach you for questions or collaborations)
-
-## Acknowledgments
-(Any acknowledgments to resources, libraries, or individuals who helped with the project)
+email: brianstjuste2021@gmail.com
 
 https://github.com/mrstjuste/jobboardwebsite/assets/120966804/aade210a-9906-4c71-82c8-2ec1d255b39e
